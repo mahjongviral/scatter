@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://mahjongviral.github.io/scatter/sitemap.xml
